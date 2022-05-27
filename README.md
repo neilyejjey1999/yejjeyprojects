@@ -16,7 +16,7 @@ FIN5622_Project_4 uses clustering in order to detect regimes in the stock market
 
 FIN5622_Project_5 uses TensorFlow to construct a neural network that detects the probability of a loan being defaulted on 
 
-FIN5622_Project_6 is a further application of TensorFlow to construct a neural network while predicts stock prices based on historical data and performance 
+FIN5622_Project_6 is a further application of TensorFlow to construct a neural network which predicts stock prices based on historical data and performance 
 
 Project 1 Questions is a series of R questions (using RStudio as the IDE) that include using R to conduct a variety of tests on imported Excel data (primarily regression, T Test, and plotting) to deterime regression equations, chi values, T value/T Test scores, and P value.  
 
